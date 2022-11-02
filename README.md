@@ -1,11 +1,13 @@
 # reflectieSDB1
 ## ytshiero bruce
-*|wat heb ik geleerd|
++ wat heb ik geleerd
 
 git clone, branch maken over waar git vor is en ,git add , push commit -m 
 
-*|wat wist ik all|
++ wat wist ik all
+
 niks
 
-*|wat will ik leren |
++ wat will ik leren 
+
 git shortcuts
