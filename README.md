@@ -1,6 +1,7 @@
 
 
 
+
 # reflectieSDB1
 ## Delysha Broertjes 
 
@@ -47,4 +48,18 @@ noppes
 + Waarvan zou ik meer willen weten?
 
 meer over github zelf leren
+
+# reflectieSDB1
+## ytshiero bruce
++ wat heb ik geleerd
+
+git clone, branch maken over waar git vor is en ,git add , push commit -m 
+
++ wat wist ik all
+
+niks
+
++ wat will ik leren 
+
+git shortcuts
 
