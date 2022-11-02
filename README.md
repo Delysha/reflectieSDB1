@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # reflectieSDB1
 ## Delysha Broertjes 
@@ -15,16 +15,7 @@ ik wist al hoe je een repository maak en een beetje hoe het werkt
 
 ik wil meer weten over de markdown. 
 
-# reflectiesd1b
-wat heb ik geleerd?
-git clone, git add, github hetzelf
 
-Wat wist ik al?
-noppes
-
-Waarvan zou ik meer willen weten?
-meer over github zelf leren
-=======
 # reflectieSDB1
 
 ## Luc Zuidema
@@ -40,4 +31,4 @@ ik wist hoe ik een repository moest maken.
 + waarvan zou ik nog meer willen weten?
 
 ik zou graag meer willen weten over de fuctionaliteit in de echte wereld.
->>>>>>> origin/luc
+
