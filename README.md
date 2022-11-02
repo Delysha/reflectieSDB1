@@ -1,5 +1,6 @@
 
 
+
 # reflectieSDB1
 ## Delysha Broertjes 
 
@@ -31,4 +32,19 @@ ik wist hoe ik een repository moest maken.
 + waarvan zou ik nog meer willen weten?
 
 ik zou graag meer willen weten over de fuctionaliteit in de echte wereld.
+
+# reflectiesd1b
+## Justin Könst
+
++ Wat heb ik geleerd?
+  
+git clone, git add, github hetzelf
+
++ Wat wist ik al?
+
+noppes
+
++ Waarvan zou ik meer willen weten?
+
+meer over github zelf leren
 
